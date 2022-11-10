@@ -1,0 +1,46 @@
+*{margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif} 
+nav{background-color: #01141B;}
+.navbar-brand {color: #BFF205;
+font-weight: 900;}
+#inicio{color: white;}
+.nav-link{color: white;}
+.navbar-toggler{color: white;}
+#landingh1{color: #BFF205;
+margin-top: 30px;
+margin-left: 10%;
+font-weight: bolder;}
+main{background-color: #01141B;}
+#navbar{background-color: #01141B;}
+main{padding-bottom: 30px;}
+.stats{display: flex;
+align-items: center;
+justify-content: center;}
+.iconos-stats{display: flex;
+    align-items: center;
+    justify-content: center;
+height: 100px;}
+.navbar-toggler-icon{color: white;}
+.statsh2{display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+color: white;}
+.row{margin-top: 20px;}
+.textoRegular{color: white;
+padding-left: 10%;
+padding-right: 10%;}
+.homeSection{margin-top: 30px;}
+p{margin-bottom: 0%;
+margin-top: 15px;}
+footer{display: flex;
+    justify-content: flex-end;
+    border-top: solid white 1px;
+background-color: #01141B;}
+.footerImg{padding: 15px;
+    height: 60px;
+    width: 60px;}
+.carousel{margin-left: 10%;
+margin-right: 20%;
+border: solid #BFF205 3px; }
