@@ -1,6 +1,6 @@
 *{margin: 0;
-    padding: 0;
-    font-family: 'Poppins', sans-serif} 
+padding: 0;
+font-family: 'Poppins', sans-serif} 
 nav{background-color: #01141B;}
 .navbar-brand {color: #BFF205;
 font-weight: 900;}
@@ -16,31 +16,85 @@ main{background-color: #01141B;}
 main{padding-bottom: 30px;}
 .stats{display: flex;
 align-items: center;
-justify-content: center;}
+justify-content: center;
+padding: 0%;}
 .iconos-stats{display: flex;
-    align-items: center;
-    justify-content: center;
-height: 100px;}
+align-items: center;
+justify-content: center;
+height: 100px;
+padding: 0%;}
 .navbar-toggler-icon{color: white;}
 .statsh2{display: flex;
 align-items: center;
 text-align: center;
 justify-content: center;
 color: white;}
-.row{margin-top: 20px;}
+.satsMargin{margin-top: 20px;}
+.contactoMargin{margin-top: 20px;}
 .textoRegular{color: white;
 padding-left: 10%;
 padding-right: 10%;}
+.textoRegular2{color: #BFF205;
+padding-top: 30px;
+margin-bottom: 30px;
+padding-left: 15%;
+padding-right: 10%;
+font-weight: 300;
+font-style: italic;}
 .homeSection{margin-top: 30px;}
 p{margin-bottom: 0%;
 margin-top: 15px;}
 footer{display: flex;
-    justify-content: flex-end;
-    border-top: solid white 1px;
+justify-content: flex-end;
+border-top: solid white 1px;
 background-color: #01141B;}
 .footerImg{padding: 15px;
-    height: 60px;
-    width: 60px;}
+ height: 60px;
+width: 60px;}
 .carousel{margin-left: 10%;
 margin-right: 20%;
 border: solid #BFF205 3px; }
+.row{width: 100vw;}
+.historiaTitulo{margin-top: 0px;
+color: #BFF205;
+font-weight: 900;
+padding-left: 10%;}
+.title{padding-top: 30px;}
+.historiaTitulo2{margin-top: 20px;
+color: #BFF205;
+font-weight: 900;
+padding-left: 10%;}
+.estadisticas{display: flex;
+    color: white;
+    font-weight: 800;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30px;}
+    .goles{background-color: #BFF205;
+    color: #01141B;
+    font-weight: 800;
+    margin-left: 20px;
+    padding-left: 20px;}
+    .asistencias{background-color: #BFF205;
+    color: #01141B;
+    margin-left: 20px;
+    padding-left: 20px;}
+     .partidos{background-color: #BFF205;
+    color: #01141B;
+    margin-left: 20px;
+    padding-left: 20px;}
+    .titulos{background-color: #BFF205;
+    color: #01141B;
+    margin-left: 20px;
+    padding-left: 20px;}
+    .premios{background-color: #BFF205;
+    color: #01141B;
+    margin-left: 20px;
+    padding-left: 20px;}
+    .nombre{color: white;}
+.mail{color: white;}
+form{display: flex;
+    justify-content: center;
+    align-content: center;
+padding: 50px;
+margin-top: 0px;}
